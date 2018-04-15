@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "967076866206",
+    "firebase_url": "https://mginfomatics.firebaseio.com",
+    "project_id": "mginfomatics",
+    "storage_bucket": "mginfomatics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967076866206:android:97573d89ec09435e",
+        "android_client_info": {
+          "package_name": "com.example.vinitha.ratingbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967076866206-uot0ku2tmkakkhkdk1tpo2lam235hvhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPp0eH3nCazYfcf-T30IM2JkL5PUXO-SY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
